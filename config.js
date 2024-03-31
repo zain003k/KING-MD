@@ -10,10 +10,10 @@ global.email = 'textnow1pak@gmail.com'
 global.github = 'https://github.com/naveeddogar/KING-MD'
 global.location = 'pakistan'
 global.gurl = 'https://instagram.com/naveeddogar_' // add your username
-global.sudo = process.env.SUDO || '916295798708'
-global.devs = '916295798708';
+global.sudo = process.env.SUDO || '923484304981'
+global.devs = '923484304981';
 global.website = 'https://github.com/naveeddogar/KING-MD' // Hello world
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/g52huhr.jpeg'
+global.THUMB_IMAGE = 916295798708process.env.THUMB_IMAGE || 'https://i.imgur.com/g52huhr.jpeg'
 module.exports = {
   botname:   process.env.BOT_NAME === undefined ? 'KING-MD' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? 'Naveed Dogar' : process.env.OWNER_NAME,
